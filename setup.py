@@ -8,8 +8,8 @@ setup(
     license='MIT License',
     author='Narutolavo',
     author_email='narutoolavo@outlook.com',
-    keywords='tradução e estudar com o anki',
-    description=u'Usando um programa de tradução e criando baralhos para o anki',
+    keywords='traduzir e estudar com o anki',
+    description=u'Usando um programa para traduzir, e criando baralhos para o anki',
     packages=['Gifu'],
     install_requires=[],
 )

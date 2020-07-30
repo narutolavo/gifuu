@@ -1,0 +1,9 @@
+README.md
+setup.cfg
+setup.py
+Gifu/__init__.py
+Gifu/gifu.py
+Gifu.egg-info/PKG-INFO
+Gifu.egg-info/SOURCES.txt
+Gifu.egg-info/dependency_links.txt
+Gifu.egg-info/top_level.txt
